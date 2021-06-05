@@ -1,0 +1,10 @@
+tekst do todo 1
+tekst do todo 2
+tekst do todo 3
+tekst do todo 4
+tekst do todo master N1
+tekst do todo master N2
+tekst do todo master N3
+zmiana adresu email - hotfix
+tekst do todo iss53
+tekst do todo drugi dodatek do iss53
